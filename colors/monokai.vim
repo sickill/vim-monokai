@@ -107,3 +107,7 @@ hi cssClassName ctermfg=148 ctermbg=NONE cterm=NONE guifg=#a6e22e guibg=NONE gui
 hi cssValueLength ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 hi cssCommonAttr ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
 hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
+hi elixirAtom ctermfg=140 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
+hi elixirModuleDeclaration ctermfg=216 ctermbg=NONE cterm=NONE guifg=#f4bf75 guibg=NONE gui=NONE
+hi elixirAlias ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fd971f guibg=NONE gui=NONE
+hi elixirStringDelimiter ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
